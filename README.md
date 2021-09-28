@@ -1,4 +1,13 @@
+# Minting NFT Fortune Cookies
+
+This project is cloned from Buildspace initial project for course (https://github.com/zipeducation/buildspace-nft-course-starter)
+
 # _buildspace Mint Your Own NFT Collection
+
+Roberto Vicuña H.
+Sept 2021
+
+## Course Notes:
 
 ### **Welcome 👋**
 To get started with this course, clone this repo and follow these commands:

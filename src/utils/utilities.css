@@ -1,0 +1,10 @@
+.address-bar-class {
+    padding:0.5rem;
+    margin-right: 1rem;
+    float: right;
+    color: green;
+    font-size: 1.2rem;
+    font-style: bold;
+    background-color: white;
+    border-radius: 5px;
+}
