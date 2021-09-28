@@ -2,6 +2,9 @@
 
 This project is cloned from Buildspace initial project for course (https://github.com/zipeducation/buildspace-nft-course-starter)
 
+The solidity contract is here: https://github.com/RoberVH/nft-course-eth-contract/blob/main/contracts/MyEpicNFT.sol
+It's deployed to Rinkeby network
+
 # _buildspace Mint Your Own NFT Collection
 
 Roberto Vicuña H.
