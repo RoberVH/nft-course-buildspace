@@ -5,6 +5,8 @@ This project is cloned from Buildspace initial project for course (https://githu
 The solidity contract is here: https://github.com/RoberVH/nft-course-eth-contract/blob/main/contracts/MyEpicNFT.sol
 It's deployed to Rinkeby network
 
+Live Website hosted on: https://615274f107d8ec358ddb689b--fortune-cookies-nft.netlify.app/
+
 # _buildspace Mint Your Own NFT Collection
 
 Roberto Vicuña H.
